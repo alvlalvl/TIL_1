@@ -26,7 +26,6 @@ git config --global user.email 'email'
         - `git remote add origin <url>`
     - `git push`
         - 원격저장소에 로컬 코드를 업로드 하기 위한 명령어
-        - `git push` <remote> <branch>
+        - `git push` `<remote> <branch>`
     
-
 
